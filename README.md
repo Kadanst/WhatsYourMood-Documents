@@ -1,1 +1,1 @@
-# WeddingPrivacyPolicy
+# WhatsYourMoodPrivacyPolicy
