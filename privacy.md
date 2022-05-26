@@ -8,15 +8,9 @@ It was developed by a group of Software Engineering students at Avans University
   
 ## Data Collection
 
-It is a single player game build in Unity with no server side data. 
-The only way the app will connect to a server is to retrieve leaderboard information. 
-At the end of the game a player can choose (optionally) to share the score with a custom chosen username.
-  
-## Leaderboard
-  
-The leaderboard information is collected via the platform <a href="https://www.lootlocker.io/">Lootlocker</a>. 
-No other information than leaderboard information is shared or retrieved. 
+The app collects data from an external server. This includes usernames, passwords, unlockables, rolesand notes.
+This information is collected via <a href="https://kadanst-backend.herokuapp.com/">Heroku</a>.
   
 ## Questions?
-Please contact us at linksonder@gmail.com if you have any questions about the Robin & Stijn The Wedding Game privacy policy.
+Please contact us at jfw.rebel@student.avans.nl if you have any questions about Kadanst What's your Mood? privacy policy.
 
