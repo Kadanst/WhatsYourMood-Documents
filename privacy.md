@@ -1,10 +1,10 @@
 
-# Robin & Stijn The Wedding Game Privacy Policy Privacy Policy
+# Kadanst What's your Mood? Privacy Policy
 
 ## Introduction
 
-Robin & Stijn The Wedding Game is a small platformer game where you have to save the groom of a wedding. 
-This game was developed as part of a wedding invitation
+An app developed to support Kadanst. It is designed to motivate children to fill in what emotion they're feeling.
+It was developed by a group of Software Engineering students at Avans University of Applied Sciences.
   
 ## Data Collection
 
